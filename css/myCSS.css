@@ -22,3 +22,16 @@ section,
 footer {
   padding: 20px 0;
 }
+
+.services .card-panel {
+  height: 275px;
+}
+
+.slider img {
+  display: block;
+  width: 50%;
+}
+
+.collapsible-header {
+  font-weight: bold;
+}
